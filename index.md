@@ -5,3 +5,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+#include<stdio.h>
+using namespace std;
+int main(){
+cout<<"This is my c++ code in github"<<endl;
+return 0;
+}
